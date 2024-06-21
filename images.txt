@@ -4,6 +4,8 @@
 cilium/cilium:v1.15.5
 cilium/operator-generic:v1.15.5
 cilium/hubble-relay:v1.15.5
+cilium/hubble-ui:v0.13.0
+cilium/hubble-ui-backend:v0.13.0
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
